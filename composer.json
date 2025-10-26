@@ -1,0 +1,17 @@
+{
+    "name": "nicol/atv_bibliotecas",
+    "autoload": {
+        "psr-4": {
+            "Nicol\\AtvBibliotecas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nicolas Marques",
+            "email": "nicolaspaiva2001@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.10"
+    }
+}
